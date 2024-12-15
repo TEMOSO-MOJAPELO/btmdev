@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/btmdev/static/css/main.514618f6.css",
+    "main.js": "/btmdev/static/js/main.e3b6646e.js",
+    "static/media/Login@2x.png": "/btmdev/static/media/Login@2x.892e1e24eeccab253941.png",
+    "static/media/Me3.png": "/btmdev/static/media/Me3.c1eb0c8fe8fa65471bf6.png",
+    "static/media/BTMLogo2.png": "/btmdev/static/media/BTMLogo2.d2e045112ad383643bb8.png",
+    "static/media/BTMLogo.png": "/btmdev/static/media/BTMLogo.acd90858d21199bb6a61.png",
+    "static/media/Web_Music_Player.png": "/btmdev/static/media/Web_Music_Player.d6d784d4a1092e3d13fd.png",
+    "static/media/FirstPortfolio.png": "/btmdev/static/media/FirstPortfolio.a3740ed6434cb6f94341.png",
+    "static/media/Predict-App2.png": "/btmdev/static/media/Predict-App2.8d9d485421d022da1a7d.png",
+    "static/media/Personal_Book_Library.png": "/btmdev/static/media/Personal_Book_Library.1dffbdfae556713a9c08.png",
+    "static/media/Home(Dark Mode).png": "/btmdev/static/media/Home(Dark Mode).c1361a9c515add56f55f.png",
+    "static/media/Home(Light Mode).png": "/btmdev/static/media/Home(Light Mode).641857a5760e8b281527.png",
+    "index.html": "/btmdev/index.html",
+    "main.514618f6.css.map": "/btmdev/static/css/main.514618f6.css.map",
+    "main.e3b6646e.js.map": "/btmdev/static/js/main.e3b6646e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.514618f6.css",
+    "static/js/main.e3b6646e.js"
+  ]
+}
