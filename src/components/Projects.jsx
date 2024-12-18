@@ -72,6 +72,9 @@ const Projects = () => {
                             Web Music Player
                         </span>
                         <div className='pt-6 text-center'>
+                            <a href="https://predict-0tf4.onrender.com/">
+                                <button className='text-center rounded-xl px-8 py-3 m-2 bg-[#E9DFCE] text-[#D8843B] font-bold text-lg'>Demo</button>
+                            </a>
                             <a href="https://github.com/TEMOSO-MOJAPELO/HexSoftwares_Web_Music_Player.git">
                                 <button className='text-center rounded-xl px-8 py-3 m-2 bg-[#E9DFCE] text-[#D8843B] font-bold text-lg'>Code</button>
                             </a>
@@ -86,6 +89,9 @@ const Projects = () => {
                             Book Library
                         </span>
                         <div className='pt-6 text-center'>
+                            <a href="https://predict-0tf4.onrender.com/">
+                                <button className='text-center rounded-xl px-8 py-3 m-2 bg-[#E9DFCE] text-[#D8843B] font-bold text-lg'>Demo</button>
+                            </a>
                             <a href="https://github.com/TEMOSO-MOJAPELO/HexSoftwares_Project3_Book_Library.git">
                                 <button className='text-center rounded-xl px-8 py-3 m-2 bg-[#E9DFCE] text-[#D8843B] font-bold text-lg'>Code</button>
                             </a>
