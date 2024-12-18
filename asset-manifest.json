@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/btmdev/static/css/main.514618f6.css",
-    "main.js": "/btmdev/static/js/main.e3b6646e.js",
+    "main.js": "/btmdev/static/js/main.99bd68d9.js",
     "static/media/Login@2x.png": "/btmdev/static/media/Login@2x.892e1e24eeccab253941.png",
     "static/media/Me3.png": "/btmdev/static/media/Me3.c1eb0c8fe8fa65471bf6.png",
     "static/media/BTMLogo2.png": "/btmdev/static/media/BTMLogo2.d2e045112ad383643bb8.png",
@@ -14,10 +14,10 @@
     "static/media/Home(Light Mode).png": "/btmdev/static/media/Home(Light Mode).641857a5760e8b281527.png",
     "index.html": "/btmdev/index.html",
     "main.514618f6.css.map": "/btmdev/static/css/main.514618f6.css.map",
-    "main.e3b6646e.js.map": "/btmdev/static/js/main.e3b6646e.js.map"
+    "main.99bd68d9.js.map": "/btmdev/static/js/main.99bd68d9.js.map"
   },
   "entrypoints": [
     "static/css/main.514618f6.css",
-    "static/js/main.e3b6646e.js"
+    "static/js/main.99bd68d9.js"
   ]
 }
